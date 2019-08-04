@@ -16,12 +16,12 @@ Tools & Language used:
 
 Execution:
 
-Front end
-1) To run Flask application python app.py .
-
-Backend code for frequency patten mining and time series forecasting
-2) .ipynb file can be executer with jupter notebook 
+ - Front end	:To run Flask application python app.py .
+ - Back end 	: .ipynb file can be executer with jupter notebook 
 
 Scope:
-1)product recommandation
-2) order forecasting
+
+ - product Mining : (Helps customer to easily add product to cart) https://github.com/vijay06/MilkBasket_submission/tree/master/Frequency_Pattern_Mining
+ - subscriber recommandation : (Increase customer subscriber rate)
+ https://github.com/vijay06/MilkBasket_submission/tree/master/Collaborative_filtering
+ - order forecasting : (Helps to manage  warehouse storage and delivery) https://github.com/vijay06/MilkBasket_submission/tree/master/timeseries_forecasting
